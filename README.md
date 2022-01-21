@@ -1,2 +1,2 @@
-# Gerador-de-senhas
-Gerador de senhas criado com PySimpleGUI.
+# Gerador de senhas
+Um simples gerador de senhas feito em Python, e utilizando como interface o PySimpleGUI.
